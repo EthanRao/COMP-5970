@@ -10,7 +10,7 @@ We will revisit the loan calculator assignment, with different layouts to suppor
 
 ![image](https://github.com/EthanRao/COMP-5970/blob/master/Assignment%202b/pics/view1.png)
 
-For wC  hC it should be
+**For wC  hC it should be**
 
 ![image](https://github.com/EthanRao/COMP-5970/blob/master/Assignment%202b/pics/view2.png)
 
