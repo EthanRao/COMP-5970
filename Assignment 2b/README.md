@@ -19,14 +19,14 @@ You should use the technique covered in lectures rather than the book (that is, 
 
 ## Rubric for Grading
 
-Compiles 35%
+  + Compiles 35%
 
-Runs without crashing 17%
+  + Runs without crashing 17%
 
-Correct  on iPhone SE  landscape 12% (corrected from 4s, which won't run iOS 11) 
+  + Correct  on iPhone SE  landscape 12% (corrected from 4s, which won't run iOS 11) 
 
-Correct on iPhone SE portrait 12% (corrected from 4s, which won't run iOS 11)
+  + Correct on iPhone SE portrait 12% (corrected from 4s, which won't run iOS 11)
 
-Correct on iPhone 8 landscape12%
+  + Correct on iPhone 8 landscape12%
 
-Correct on iPhone  8 portrait 12%
+  + Correct on iPhone  8 portrait 12%
