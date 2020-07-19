@@ -41,12 +41,12 @@ When the button is clicked, the number for the payment amount that is correct fo
 
 ## Rubric for Grading
 
-Compiles = 35%
+ + Compiles = 35%
 
-Calculates something = 15%
+ + Calculates something = 15%
 
-Correct UI, as specified= 10%
+ + Correct UI, as specified= 10%
 
-Correct answer for 72 month loan of $20,000, 4.4% APR, compounded monthly = 15%
+ + Correct answer for 72 month loan of $20,000, 4.4% APR, compounded monthly = 15%
 
-Correct answer for  30 year loan of $150,000, 5% APR, one annual payment each year for 30 years = 15%
+ + Correct answer for  30 year loan of $150,000, 5% APR, one annual payment each year for 30 years = 15%
