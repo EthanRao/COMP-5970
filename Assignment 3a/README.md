@@ -2,7 +2,7 @@
 
 ## Description
 
-For this assignment you will develop a single-view application with a picker, a text field and three buttons. The single-component picker from the example application for this chapter would not be a bad place to start. The  data for the picker is initially three items: Each item is a string
+**For this assignment you will develop a single-view application with a picker, a text field and three buttons. The single-component picker from the example application for this chapter would not be a bad place to start. The  data for the picker is initially three items: Each item is a string**
   
   - Thing One            
   - Thing Two                  
