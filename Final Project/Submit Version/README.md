@@ -1,6 +1,4 @@
-# Final Project Description
-
-## To-do List
+# To-do List Description
 
 ## How to works
 
@@ -21,6 +19,7 @@ To check an item so it will be moved to the history list , just tap on it. A pop
 ![image](https://github.com/EthanRao/COMP-5970/blob/master/Final%20Project/IMG/del.jpg)
 
 ![image](https://github.com/EthanRao/COMP-5970/blob/master/Final%20Project/IMG/del2.jpg)
+
 
 ## Programming
 
